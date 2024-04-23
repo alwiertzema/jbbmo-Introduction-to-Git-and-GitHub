@@ -13,7 +13,7 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
+_© 2023 XYZ, Inc._
 
 Please consider the below factors while contributing
 
@@ -35,3 +35,5 @@ All contributions undergo a code review process.
 Licensing:
 Apache License 2.0.
 Contributions are licensed.
+
+
